@@ -1,0 +1,15 @@
+Joll probability function is  : (xCi)*(zCj)*(yC(n-i-j))/((x+y+z)Cn) where 0 <= (i+j) <= n
+No. of blue : No. of green ==>0 : 0==>0.175
+No. of blue : No. of green ==>0 : 1==>0.408333
+No. of blue : No. of green ==>0 : 2==>0.175
+No. of blue : No. of green ==>1 : 0==>0.116667
+No. of blue : No. of green ==>1 : 1==>0.116667
+No. of blue : No. of green ==>2 : 0==>0.00833333
+Joll Probability Function table: f(x,z) where 1st row is where x=0 and z varies from 0 to n
+|  0.175  |  0.408333  |  0.175  
+|  0.116667  |  0.116667  |  0  
+|  0.00833333  |  0  |  0  
+Marginal distribution of X alone : 
+|  0.758333  |  0.233333  |  0.00833333  
+Marginal distribution of Z alone : 
+|  0.3  |  0.525  |  0.175  

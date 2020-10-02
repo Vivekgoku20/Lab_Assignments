@@ -1,0 +1,8 @@
+Function f(0) is invalid
+Function f(1) is invalid
+Function f(2) is invalid
+Function f(3) is invalid
+ Fuction f(4) = 15*c
+ Fuction f(5) = 30*c
+ Fuction f(6) = 15*c
+c = 0.0166667

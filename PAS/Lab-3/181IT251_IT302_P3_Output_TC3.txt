@@ -1,0 +1,6 @@
+Function f(0) is invalid
+Function f(1) is invalid
+ Fuction f(2) = 6*c
+ Fuction f(3) = 12*c
+ Fuction f(4) = 6*c
+c = 0.0416667

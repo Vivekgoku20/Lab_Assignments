@@ -1,0 +1,5 @@
+Function f(0) is invalid
+Function f(1) is invalid
+Function f(2) is invalid
+ Fuction f(3) = 1*c
+c = 1

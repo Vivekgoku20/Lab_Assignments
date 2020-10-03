@@ -1,0 +1,5 @@
+Mean of X is : 6.2
+Mean of Y is : 12
+
+Value G(x,y)=XY  is : 25
+Covariance of the X and Y is : -49.4

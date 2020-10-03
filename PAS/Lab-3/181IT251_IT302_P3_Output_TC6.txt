@@ -1,0 +1,9 @@
+Function f(0) is invalid
+Function f(1) is invalid
+Function f(2) is invalid
+Function f(3) is invalid
+Function f(4) is invalid
+ Fuction f(5) = 21*c
+ Fuction f(6) = 42*c
+ Fuction f(7) = 21*c
+c = 0.0119048
